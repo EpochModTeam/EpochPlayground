@@ -1,5 +1,4 @@
 # Epoch Playground
-----
 Experimental Arma 3 Sandbox for Special Events and alternative gamemodes.
 
 ----
