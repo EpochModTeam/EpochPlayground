@@ -13,17 +13,14 @@ Experimental Arma 3 Sandbox for Special Events and alternative gamemodes.
 ###### Race Track
 
 ## Developers
-----
 * Aaron Clark - ([VB]AWOL) http://epochmod.com/
 * Chris - (Sli) http://getwrecked.info/
 
 ## Testers 
-----
 * TBA
 
  
 ## Requirements
-----
 * CUP Terrains Core + Maps
 * Epoch Mod 
 * CBA
