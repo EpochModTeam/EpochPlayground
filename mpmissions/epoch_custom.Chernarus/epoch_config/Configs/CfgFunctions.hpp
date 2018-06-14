@@ -35,6 +35,10 @@ class cfgFunctions
         tag = "EPOCH";
         class functions
         {
+            class arrayToLogic
+            {
+                file = "epoch_code\compile\functions\EPOCH_fnc_arrayToLogic.sqf";
+            };
             class returnConfigEntryV2
             {
                 file = "epoch_code\compile\functions\EPOCH_fn_returnConfigEntryV2.sqf";
@@ -42,6 +46,10 @@ class cfgFunctions
             class isAny
             {
                 file = "epoch_code\compile\both\EPOCH_isAny.sqf";
+            };
+			class weightedArray
+            {
+                file = "epoch_code\compile\both\EPOCH_weightedArray.sqf";
             };
             class compiler
             {
